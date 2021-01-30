@@ -1,0 +1,12 @@
+-email aunthetication
+-form untuk registrasi harus diapprove admin dulu sehingga sebelum di approve
+ tidak bisa melakukan apa"
+-menu untuk melihat akun regis yang akan di approve
+-review dikelola admin agar bisa menghapus ataupun hal pada halaman cerita
+sang penulis
+-user biasa setelah dpt akun bisa tambah cerita dan histori dari cerita
+yang ada pada historinya tersebut
+-review pada cerita yang ada
+-jika bingung alurnya cerita seperti wattpad
+-usecase di perbaiki dulu
+-harus ada guest yang hanya untuk melihat cerita yang telah dibuat oleh penulis

@@ -1,0 +1,42 @@
+git init -> semua kode program akan disimpan didalam sebuah branch dengan nama master
+
+git add -> untuk menambahkan satu buah file tertentu
+git add . -> untuk menambahkan semua file didalam direktori kedalam
+
+
+git log -> melihat apa saja commit yang telah selesai kita lakukan
+
+
+git diff kodenya(melalui git log)--> memberikan contoh perbedaan antara project pertama dengan project sebelumnya.
+
+
+git checkout --app \nama file -> berfungsi untuk mengembalikan diproses sebelumnya.
+
+
+git reset HEAD --> reset ke terakhir tidak perlu pakai kode hass
+
+
+git branch -a -> melihat seluruh branch dalam project
+
+git branch [nama_branch] -> membuat sebuah branch baru
+
+git push 
+
+git checkout -> agar berpindah dari branch yang lain
+
+
+setiap ada fitur baru di merge terlebih dahulu
+
+developer --> bisa buat branch baru
+maintainer --> bisa buat semuanya.
+
+git clone --> saat melakukan clone pastikan dibuat di project baru 
+
+
+git pull --> berfungsi untuk menarik semua file yang paling update
+
+
+git tag --> memberikan tag terhadap versi dari app contoh "versi 1.1"
+
+
+git ignore --> adalah file hidden, ini merupakan file rahasia sehingga disembunyikan agar default dari setiap pengguna tidak diubah. contoh si a pakai visual studio bewarna hitam, si b pakai visual studio bewarna putih jadi tidak perlu diubah
